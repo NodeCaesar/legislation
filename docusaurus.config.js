@@ -11,7 +11,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'NodeCaesar', // Usually your GitHub org/user name.
+  organizationName: 'Fugoist', // Usually your GitHub org/user name.
   projectName: 'legislation', // Usually your repo name.
   trailingSlash: false,
 
@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/NodeCaesar/legislation/edit/master/docs/supreme/conclusion.md',
+          editUrl: 'https://github.com/Fugoist/legislation/edit/master/docs/supreme/conclusion.md',
           routeBasePath: '/'
         },
         blog: {
           path: 'blog',
           editUrl: ({locale, blogDirPath, blogPath}) => {
-            return `https://github.com/NodeCaesar/legislation/edit/master/${blogDirPath}/${blogPath}`;
+            return `https://github.com/Fugoist/legislation/edit/master/${blogDirPath}/${blogPath}`;
           },
           postsPerPage: 5,
           feedOptions: {
@@ -49,7 +49,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadatas: [
-        { property: 'og:image', content: 'https://legislation.scpf.io/img/scpf.png' },
+        { property: 'og:image', content: 'https://cdn.discordapp.com/attachments/840647045538250809/986412306562965534/NewLogoVantaBlackCropped.png' },
       ],
       colorMode: {
         defaultMode: 'dark',
