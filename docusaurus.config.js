@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'SCP: Federation Public Documentation',
-  tagline: 'This site contains all public documentation for FacilityEngineer\'s SCP: Federation',
+  tagline: 'This site contains all public documentation for RockerApollo\'s SCP: Federation',
   url: 'https://legislation.scpfofficial.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -33,7 +33,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           postsPerPage: 5,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's SCP: Federation & Apollo Entertainment`,
+            copyright: `Copyright © ${new Date().getFullYear()} RockerApollo's SCP: Federation`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
@@ -129,7 +129,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's SCP: Federation & Apollo Entertainment`,
+        copyright: `Copyright © ${new Date().getFullYear()} RockerApollo's SCP: Federation`,
       },
       prism: {
         theme: lightCodeTheme,

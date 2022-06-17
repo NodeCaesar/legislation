@@ -41,7 +41,7 @@ export default function Servers(props) {
 		}).catch(console.warn);
 		timer = setInterval(async ()=>{
 			try {
-				const response = await axios.get('https://dev.api.scpf.io/public/publicServers');
+				const response = await axios.get('https://dev.api.scpfofficial.com/public/publicServers');
 				if (response && response.data) {
 					setServers(response.data.result);
 				}
