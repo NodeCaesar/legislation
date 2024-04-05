@@ -4,9 +4,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'FacilityEngineer\'s SCPF documentation',
-  tagline: 'This site contains all public documentation for FacilityEngineer\'s SCPF',
-  url: 'https://legislation.scpf.io',
+  title: 'SCP: Federation Public Documentation',
+  tagline: 'This site contains all public documentation for RockerApollo\'s SCP: Federation',
+  url: 'https://legislation.scpfofficial.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -33,7 +33,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           postsPerPage: 5,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's Special Containment Procedures Foundation`,
+            copyright: `Copyright © ${new Date().getFullYear()} RockerApollo's SCP: Federation`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
@@ -49,16 +49,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadatas: [
+master
         { property: 'og:image', content: 'https://cdn.discordapp.com/attachments/840647045538250809/986412306562965534/NewLogoVantaBlackCropped.png' },
+
+        { property: 'og:image', content: 'https://legislation.scpfofficial.com/img/scpf.png' },
+master
       ],
       colorMode: {
         defaultMode: 'dark',
         respectPrefersColorScheme: true
       },
       navbar: {
-        title: 'SCPF',
+        title: 'SCP: Federation',
         logo: {
-          alt: 'SCPF Logo',
+          alt: 'SCP: Federation Logo',
           src: 'img/scpf.png',
         },
         items: [
@@ -129,7 +133,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} FacilityEngineer's Special Containment Procedures Foundation`,
+        copyright: `Copyright © ${new Date().getFullYear()} RockerApollo's SCP: Federation`,
       },
       prism: {
         theme: lightCodeTheme,

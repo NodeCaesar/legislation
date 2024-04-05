@@ -14,7 +14,7 @@ title: 2 F.C. § 4 - Official Forums
 		<li>Individuals accused in <a href="#FC2.4">2 F.C. § 4(2)</a> forums, designated "disciplinary hearings," may request legal representation</li>
 		<li>It is the duty of the departmental command staff or any entity authorized to enforce standards of discipline within such department to present evidence in the capacity of a prosecution</li>
 		<li>Non-judicial actions do not need to be hosted in a forum unless the accused disputes the claim</li>
-		<li>Failiure to provision a disciplinary hearing when a dispute occured constitues <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21a</a> and leaves responsible parties open to prosecution.</li>
+		<li>Failiure to provision a disciplinary hearing when a dispute occured constitues <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21a</a> and leaves responsible parties open to prosecution.</li>
 	</ol>
 	<li>The primary circuit of judicial action is the Ethics Committees internal command, who are responsible for the direction of action against individuals for offenses falling under the providence of the committee.</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
@@ -22,7 +22,7 @@ title: 2 F.C. § 4 - Official Forums
 	</ol>
 	<li>The secondary circuit of judicial action is the Internal Review Service, who may perform hearings to determine if an article has been violated under their jurdistiction, or to identify exemplifications of incompetence.</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
-		<li>Legal Representation may be employed during hearings and interviews by IRS Inspectors, however the subject must answer without coersion from either party when in the official forum itself, as directed by <a href="https://legislation.scpf.io/traffic_articles">2 F.C. § 1(3)(a)</a></li>
+		<li>Legal Representation may be employed during hearings and interviews by IRS Inspectors, however the subject must answer without coersion from either party when in the official forum itself, as directed by <a href="https://legislation.scpfofficial.com/traffic_articles">2 F.C. § 1(3)(a)</a></li>
 		<li>Appeals of secondary circuit decisions must immediately be forwarded to the second circuit of appeals, due to the fact that the adjudication committee does not excersise control over an independent service.</li>
 	</ol>
 	<li>The first circuit of appeals is operated by the Ethics Committees adjudication committee and is employed to determine the rulings on the first circuits cases;</li>

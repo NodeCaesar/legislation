@@ -9,7 +9,7 @@ This document was created by the Ethics Committee's Central Command, if you have
 
 Below are signatures that, once signed, will make this document lawfully binding to the operations of the Foundations. 
 
-<center>ApolloConX</center>
+<center>RockerApollo</center>
 <center><strong>The Administrator</strong></center><br></br>
 
 <center>lewisjph</center>

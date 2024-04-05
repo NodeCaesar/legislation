@@ -85,7 +85,7 @@ title: 5 F.C. § 2 - Site Omicron
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Security Forces Personnel</li>
 			<li>Mobile Task Force Operatives</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Quality Assurance Testers acting on official business</li>
 			<li>Intelligence Officers</li>
 			<li>Command Staff</li>
@@ -97,11 +97,11 @@ title: 5 F.C. § 2 - Site Omicron
 			<li>MTF Operatives</li>
 			<li>Intelligence Officers acting on Official Business</li>
 			<li>Security Class 4s, Installation Directors and Councillors</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
 		<li>The Catwalks may only be accessed by;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Security Personnel</li>
 			<li>Mobile Task Force Operatives</li>
 			<li>Intelligence Officers</li>
@@ -126,11 +126,11 @@ title: 5 F.C. § 2 - Site Omicron
 		<li>The Visitation Area boundary is defined as the access door in Lower Observation and the access door at the Guardline</li>
 		<li>The Visitation Area is a firearm freezone;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>Failiure to relinquish a firearm to the attending officer subjects personnel to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
+			<li>Failiure to relinquish a firearm to the attending officer subjects personnel to prosecution under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
 			<li>Class D who fail to declare possession of a firearm are subject to termination and one strike</li>
-			<li>Attending Officers who fail to relinquish personnel of their firearms are subject to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21.</a></li>
-			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_omicron">5 F.C. § 2(6)(b)(iii)</a></li>
-			<li>Combatives, Intelligence Officers and Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics) or above may bear arms in the Visitation Area</li>
+			<li>Attending Officers who fail to relinquish personnel of their firearms are subject to prosecution under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21.</a></li>
+			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under <a href="https://legislation.scpfofficial.com/foundation_code/ordinances/area_ordinance/site_omicron">5 F.C. § 2(6)(b)(iii)</a></li>
+			<li>Combatives, Intelligence Officers and Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics) or above may bear arms in the Visitation Area</li>
 		</ol>
 		<li>Visitation may only occur on the basis of official business, namely;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>

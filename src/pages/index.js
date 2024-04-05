@@ -7,7 +7,7 @@ import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import Servers from '../components/Servers';
 
-function HomepageHeader() {
+function HomepageHeader() { 
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Public documentation for FacilityEngineer's SCPF <head />">
+      description="Public Documentation for the  SCP: Federation <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

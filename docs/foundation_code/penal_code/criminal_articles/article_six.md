@@ -28,5 +28,5 @@ title: 1 F.C. § 6 - Tresspassing
 			<li>on the third offence and all further offences, anything up to and including permanent reclassification to Class-D</li>
 		</ol>
 	</ol>
-	<li>Low, moderate and high security areas are defined in <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_phi">5 F.C.</a></li>
+	<li>Low, moderate and high security areas are defined in <a href="https://legislation.scpfofficial.com/foundation_code/ordinances/area_ordinance/site_phi">5 F.C.</a></li>
 </ol>

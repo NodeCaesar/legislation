@@ -25,14 +25,14 @@ title: 5 F.C. § 3 - Site Epsilon
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Command Staff</li>
 			<li>Quality Assurance Testers</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Intelligence Officers</li>
 			<li>Mobile Task Forces</li>
 			<li>Personnel accompanying or performing an authorized event</li>
 		</ol>
 		<li>The containment zones are accessible to;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Mobile Task Forces</li>
 			<li>Intelligence Officers</li>
 			<li>Personnel accompanying or performing an authorized event</li>
@@ -46,17 +46,17 @@ title: 5 F.C. § 3 - Site Epsilon
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Mobile Task Forces</li>
 			<li>Authorized Security Escorts</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Intelligence Officers</li>
 			<li>Command Staff</li>
 			<li>Persons allowed to retain firearms for an approved test hypothesis.</li>
 		</ol>
 		<li>It is the duty of the attending security escort to relinquish persons of firearms, or face punishment under <code>1 F.C. § 21</code></li>
-		<li>An individual can not be charged under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_epsilon">5 F.C. § 3(5)(b)</a> if a game mechanic stunts their capacity to do so</li>
-		<li>An individual with security clearance who fails to declare a firearm at a security station is subject to termination and prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
+		<li>An individual can not be charged under <a href="https://legislation.scpfofficial.com/foundation_code/ordinances/area_ordinance/site_epsilon">5 F.C. § 3(5)(b)</a> if a game mechanic stunts their capacity to do so</li>
+		<li>An individual with security clearance who fails to declare a firearm at a security station is subject to termination and prosecution under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
 		<li>An Class D who fails to declare a firearm at a security station is subject to termination and marking for confinement</li>
 	</ol>
-	<li>Any individual who tresspasses within Site Epsilon may be terminated and prosecuted under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_six">1 F.C.§ 6</a></li>
-	<li>Any individual who enters a containment zone without authorization may be terminated and prosecuted under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7(c)</a></li>
-	<li>Any individual who loiters in the immediate vicinity of Site Epsilon and who fails to disperse after a clear verbal warning may be charged under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_eight">1 F.C. § 8</a></li>
+	<li>Any individual who tresspasses within Site Epsilon may be terminated and prosecuted under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_six">1 F.C.§ 6</a></li>
+	<li>Any individual who enters a containment zone without authorization may be terminated and prosecuted under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7(c)</a></li>
+	<li>Any individual who loiters in the immediate vicinity of Site Epsilon and who fails to disperse after a clear verbal warning may be charged under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_eight">1 F.C. § 8</a></li>
 </ol>

@@ -34,7 +34,7 @@ title: 5 F.C. § 5 - Entrance Zone
 			<li>Diplomatic Staff</li>
 			<li>Intelligence Staff</li>
 			<li>Administrative Department Members</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Judiciary Authority</li>
 		</ol>
 		<li>The logistics department spawn may only be accessed by;</li>
@@ -44,10 +44,10 @@ title: 5 F.C. § 5 - Entrance Zone
 			<li>Engineers</li>
 			<li>Logisticians</li>
 			<li>Intelligence Officers</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
 		<li>The entrance zone may not be accessed outside of official business during any state of high alert or emergency</li>
 	</ol>
-	<li>The Entrance Zone is the Foundations liasion point for emergency evacuations; obstruction of evacuation efforts results in prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_eight">1 F.C. § 8</a> - Malcompliance</li>
-	<li>The terrain tunnels connected to Installation Command are restricted, as listed under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_epsilon">5 F.C. § 3</a> and <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/outlands">5 F.C. § 7</a>.</li>
+	<li>The Entrance Zone is the Foundations liasion point for emergency evacuations; obstruction of evacuation efforts results in prosecution under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_eight">1 F.C. § 8</a> - Malcompliance</li>
+	<li>The terrain tunnels connected to Installation Command are restricted, as listed under <a href="https://legislation.scpfofficial.com/foundation_code/ordinances/area_ordinance/site_epsilon">5 F.C. § 3</a> and <a href="https://legislation.scpfofficial.com/foundation_code/ordinances/area_ordinance/outlands">5 F.C. § 7</a>.</li>
 </ol>

@@ -14,6 +14,6 @@ title: 2 F.C. § 2 - Representation
 		<li>Appointees by Overwatch Command</li>
 	</ol>
 	<li>Legal Representatives may come from a private setting in the case of legal defense</li>
-	<li>Departments and other official entities are required to allow appointed and confirmed legal representatives to communicate on behalf of the accused party if the accused party wishes for such and must recognize them as such; legal representatives believed to be violating the ordinance attached to <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_procedure/article_two">2 F.C. § 2(2)</a> are to be reported to the Internal Review Service</li>
+	<li>Departments and other official entities are required to allow appointed and confirmed legal representatives to communicate on behalf of the accused party if the accused party wishes for such and must recognize them as such; legal representatives believed to be violating the ordinance attached to <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_procedure/article_two">2 F.C. § 2(2)</a> are to be reported to the Internal Review Service</li>
 	<li>An individual may be barred from functioning as a legal representative by the Review Service if they are believed to have violated 2 F.C. § 2(2) and may appeal such motion to the Appeal Services</li>
 </ol>

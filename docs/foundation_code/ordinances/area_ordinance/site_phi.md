@@ -47,7 +47,7 @@ title: 5 F.C. § 1 - Site Phi
 		<li>The Pandora Crystal walkway (terrain immediately surrounding the crystal) shall be considered restricted to the following;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>On-Duty Mobile Task Force Operatives</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Intelligence Officers or persons representing a detachment of the Intelligence Service</li>
 			<li>Members of the Judiciary Authority</li>
 			<li>Members of the Administrative Department, including Investors</li>
@@ -58,7 +58,7 @@ title: 5 F.C. § 1 - Site Phi
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Engineers performing an approved inspection</li>
 			<li>Quality Assurance Testers assessing a bug</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Mobile Task Force Operatives</li>
 			<li>Intelligence Officers</li>
 			<li>Security Response Unit Personnel</li>
@@ -68,7 +68,7 @@ title: 5 F.C. § 1 - Site Phi
 		<li>The Technical Wing may only be accessed by;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Engineers</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Mobile Task Force Operatives</li>
 			<li>Intelligence Officers</li>
 			<li>Command Staff</li>
@@ -81,7 +81,7 @@ title: 5 F.C. § 1 - Site Phi
 			<li>Military Policemen, in the absence of MTF</li>
 			<li>Intelligence Officers</li>
 			<li>Command Staff</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
 		<li>The Ethics Committee offices, namely the area behind the secure access door and elevator, shall be restricted to;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
@@ -90,7 +90,7 @@ title: 5 F.C. § 1 - Site Phi
 			<li>Falcon-2 Operatives designated to defend the event</li>
 			<li>Intelligence Officers</li>
 			<li>Any individual with authorization from the highest ranking, online member of the Judiciary Authority</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
 		<li>Individuals partaking in an approved diplomatic or guest tour are permitted to enter all areas, unless they act as a significant hinderance to security operations</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
@@ -107,16 +107,16 @@ title: 5 F.C. § 1 - Site Phi
 			<li>Mobile Task Force Operatives</li>
 			<li>Intelligence Officers</li>
 			<li>Command Staff & Councillors</li>
-			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpfofficial.com/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
-		<li>Failiure to relinquish ones firearm at the security checkpoint when ordered to declare by the attending security forces or quick reaction force member shall warrant prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
+		<li>Failiure to relinquish ones firearm at the security checkpoint when ordered to declare by the attending security forces or quick reaction force member shall warrant prosecution under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Class D who fail to relinquish any firearm shall be terminated and issued a strike.</li>
 		</ol>
-		<li>It is the duty of the attending individual at the security point to relieve non-permitted individuals of their firearms and failure to do so shall leave them susceptble to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21</a>.</li>
+		<li>It is the duty of the attending individual at the security point to relieve non-permitted individuals of their firearms and failure to do so shall leave them susceptble to prosecution under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21</a>.</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_phi">5 F.C. § 1(5)(c)</a></li>
+			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under <a href="https://legislation.scpfofficial.com/foundation_code/ordinances/area_ordinance/site_phi">5 F.C. § 1(5)(c)</a></li>
 		</ol>
 	</ol>
-	<li>Access may never be impeded to the Breach Shelter and willfully or intentionally doing so shall leave persons susceptible to charge under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7</a></li>
+	<li>Access may never be impeded to the Breach Shelter and willfully or intentionally doing so shall leave persons susceptible to charge under <a href="https://legislation.scpfofficial.com/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7</a></li>
 </ol>
